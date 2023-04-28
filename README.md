@@ -4,7 +4,7 @@ In today's digital era, cybersecurity threats are a major concern globally. Trad
 ## Methodology
 The project involved pre-processing the portmap.csv dataset(Google drive link) through data cleaning and feature selection. Trained the machine learning model using a variety of techniques, including decision trees, random forests, and deep learning. To evaluate the model's performance, used several metrics, such as accuracy, precision, recall, and F1 score. Also performed cross-validation to verify the model's generalizability.
 
-- Data Collection: Use the portmap.csv dataset provided.
+- Data Collection: Use the portmap.csv dataset provided: https://drive.google.com/file/d/13pxVB0qNGAhOEvQMJaoYDsQNJYStpHMN/view?usp=sharing
 
 - Data Exploration: Use appropriate graphs/charts to demonstrate your understanding of the dataset provided.
 
@@ -14,5 +14,6 @@ The project involved pre-processing the portmap.csv dataset(Google drive link) t
 
 - Model Evaluation: Evaluate the performance of the model using relevant metrics such as accuracy, precision, recall, F1 score, and area under the curve (AUC).
 ## Conclusion
-In conclusion, this project demonstrates the potential for using machine learning models to automate cybersecurity threat detection. Our findings indicate that the Random Forest Classifier is the best-performing model for detecting potential cybersecurity threats in network traffic, achieving an accuracy score of 0.99995 on the validation set.
-In summary, this project provides a promising approach for organizations to improve their cybersecurity posture by automating threat detection using machine learning models. By doing so, organizations can reduce their risk of security breaches and increase their profitability.
+- In conclusion, this project demonstrates the potential for using machine learning models to automate cybersecurity threat detection. Our findings indicate that the Random Forest Classifier is the best-performing model for detecting potential cybersecurity threats in network traffic, achieving an accuracy score of 0.99995 on the validation set.
+
+- This project provides a promising approach for organizations to improve their cybersecurity posture by automating threat detection using machine learning models. By doing so, organizations can reduce their risk of security breaches and increase their profitability.
