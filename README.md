@@ -1,3 +1,5 @@
+![image](https://github.com/Ze-Michelle-Sun/Automated-Detection-of-Cybersecurity-Threats-Using-Machine-Learning/assets/110506170/93014c2a-daa7-4ea2-bd24-ed926e50dd67)
+
 # Automated-Detection-of-Cybersecurity-Threats-Using-Machine-Learning
 ## Introduction
 In today's digital era, cybersecurity threats are a major concern globally. Traditional methods of identifying security breaches are inadequate against evolving threats. Machine learning offers a promising solution to this problem. Developed models that automatically detect cyber threats in real-time by analyzing network traffic. Using techniques like decision trees and deep learning, built an automated system to identify potential threats and enable quick response. The aim of the project is to provide a robust and efficient cybersecurity solution that keeps up with the evolving threat landscape.
